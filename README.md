@@ -23,9 +23,9 @@
 - SHA-1: 74a41a73be801a36bb12a21fc35389925fd51047
 - SHA-256: 00b77a5bf992e91afea03dfa7eaf749c3d72e1527923656b1dc1b95163065c6b
 ---
-File: Office_2013-2016_C2R_License_Setup_v1.03.zip
-CRC-32: 716b66b6
-MD5: 302825fd93272e6e8b5ff787fa632ee4
-SHA-1: 12e27eaabcd559ad98cc9f342ddfebaea8fe25ab
-SHA-256: 2cef7a7feea96777babce5a0da5e6445d81b5014efb5cc650a5c9ac2aada52d8
+- File: Office_2013-2016_C2R_License_Setup_v1.03.zip
+- CRC-32: 716b66b6
+- MD5: 302825fd93272e6e8b5ff787fa632ee4
+- SHA-1: 12e27eaabcd559ad98cc9f342ddfebaea8fe25ab
+- SHA-256: 2cef7a7feea96777babce5a0da5e6445d81b5014efb5cc650a5c9ac2aada52d8
 ---
